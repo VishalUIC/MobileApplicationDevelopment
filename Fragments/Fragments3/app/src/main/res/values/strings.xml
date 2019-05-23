@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fragments3</string>
+    <string-array name="Titles">
+        <item>Willis tower</item>
+        <item>Millenium Park</item>
+        <item>Sky Deck</item>
+        <item>chicago riverwalk</item>
+        <item>John Hancock Center</item>
+        <item>Shedd Aquarium</item>
+    </string-array>
+    <string-array name="WebLinks">
+        <item>http://www.willistower.com/</item>
+        <item>https://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>http://theskydeck.com/</item>
+        <item>https://www.chicagoriverwalk.us/</item>
+        <item>http://johnhancockcenterchicago.com/</item>
+        <item>https://www.sheddaquarium.org/</item>
+    </string-array>
+
+    <string name="Exit">Exit Application 1</string>
+    <string name="new_app">Open gallery application</string>
+
+</resources>
